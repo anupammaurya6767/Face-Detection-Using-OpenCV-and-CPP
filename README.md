@@ -11,3 +11,5 @@ To run just type below command in Face Detection any root folder (either in LIve
  $: g++ main.cpp -o app `pkg-config --cflags --libs opencv`\
  $: ./app
  
+ #Demo:
+ ![](https://github.com/anupammaurya6767/Face-Detection-Using-OpenCV-and-CPP/blob/main/Demo/sample.png)
