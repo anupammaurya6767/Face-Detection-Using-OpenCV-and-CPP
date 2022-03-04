@@ -5,3 +5,9 @@ Face detection is a computer vision technology that helps to locate/visualize hu
 
 ## Objective
 This is the repository linked to the tutorial with the same name. The idea is to introduce people to the concept of object detection in Python using the OpenCV library and how it can be utilized to perform tasks like Facial detection.
+
+ # Contour Detection
+To run just type below command in Face Detection any root folder (either in LIve web cam or Input image folder):\
+ $: g++ main.cpp -o app `pkg-config --cflags --libs opencv`\
+ $: ./app
+ 
