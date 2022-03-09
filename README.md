@@ -8,9 +8,13 @@ This is the repository linked to the tutorial with the same name. The idea is to
 
  ## For Demo:
 To run just type below command in Face Detection any root folder (either in LIve web cam or Input image folder):\
- $: g++ main.cpp -o app `pkg-config --cflags --libs opencv`\
+```
+$: g++ main.cpp -o app `pkg-config --cflags --libs opencv`
+
+```
+```
  $: ./app
- 
+``` 
  
  
  
